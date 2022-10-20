@@ -5,7 +5,7 @@ from sqlalchemy import create_engine
 
 db_name = 'demo'
 db_user = 'postgres'
-db_pass = 'Lab#102022'
+db_pass = '********'
 db_host = 'database-pg-jai01.c83frlpww64y.us-west-1.rds.amazonaws.com'
 db_port = '5432'
 
